@@ -67,21 +67,7 @@ In case you will end up using a library, you can take a look at
 https://networkx.org, a library included in Anaconda that's great for
 studying networks and graphs.
 
-# Due date
-
-This exercise is due on **2021-12-20, at 22:00 (Madrid time)**.  I will only correct the last in Github.
-
-# Evaluation method
-
-Maximum possible points: **10**
-
-| Area                 |       Points |
-| :------------------- | -----------: |
-| Exercise 1           | **3 points** |
-| Exercise 2           | **2 points** |
-| Exercise 3           | **2 points** |
-| Exercise 4           | **1 points** |
-| General coding style | **2 points** |
+ 
 
 
 # Attributions
